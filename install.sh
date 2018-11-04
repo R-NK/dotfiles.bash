@@ -1,2 +1,2 @@
 git submodule init
-cp -r ./home ~/
+cp -pR home/. ~/
