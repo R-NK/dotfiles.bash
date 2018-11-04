@@ -1,0 +1,3 @@
+[submodule ".bash/pureline-inspired"]
+	path = .bash/pureline-inspired
+	url = https://github.com/tadashi-aikawa/pureline-inspired
